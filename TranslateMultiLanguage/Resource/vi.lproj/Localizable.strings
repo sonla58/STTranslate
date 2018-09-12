@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  TranslateMultiLanguage
+
+  Created by Anh Son Le on 7/12/18.
+  Copyright © 2018 stadio. All rights reserved.
+*/
+
+// HomeVC
+"Không có kết nối" = "Không có kết nối";
+"Vui lòng kiểm tra kết nối Internet" = "Vui lòng kiểm tra kết nối Internet";
+"Đóng" = "Đóng";
+"Đã sao chép" = "Đã sao chép";
+"Đang dịch" = "Đang dịch";
+"Xoá toàn bộ lịch sử dịch?" = "Xoá toàn bộ lịch sử dịch?";
+"Xoá" = "Xoá";
+"Thư viện ảnh" = "Thư viện ảnh";
+
+// Favorite
+"Yêu thích" = "Yêu thích";
+
+// ORC
+"Tải gói dữ liệu ngôn ngữ" = "Tải gói dữ liệu ngôn ngữ";
+
+// STT
+"Xong" = "Xong";
+"Bạn đã từ chối cho phép ứng dụng sử dụng microphone và dữ liệu giọng nói. Để sử dụng tính năng này vui lòng cấp phép cho ứng dụng" = "Bạn đã từ chối cho phép ứng dụng sử dụng microphone và dữ liệu giọng nói. Để sử dụng tính năng này vui lòng cấp phép cho ứng dụng";

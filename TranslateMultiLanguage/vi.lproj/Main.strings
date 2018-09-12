@@ -1,0 +1,36 @@
+
+/* Class = "UIButton"; normalTitle = "Speak"; ObjectID = "7Mm-4S-UK8"; */
+"7Mm-4S-UK8.normalTitle" = "Nói";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9EH-Pm-1VY"; */
+"9EH-Pm-1VY.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Translate image"; ObjectID = "ByV-Og-Iq6"; */
+"ByV-Og-Iq6.normalTitle" = "Dịch hình ảnh";
+
+/* Class = "UIButton"; normalTitle = "Delete all"; ObjectID = "Itn-G6-Mu0"; */
+"Itn-G6-Mu0.normalTitle" = "Xoá hết";
+
+/* Class = "UITextField"; placeholder = "Type something"; ObjectID = "KTw-Up-BUW"; */
+"KTw-Up-BUW.placeholder" = "Nhập từ cần dịch";
+
+/* Class = "UIButton"; normalTitle = "Rate"; ObjectID = "LY9-KX-CnK"; */
+"LY9-KX-CnK.normalTitle" = "Đánh giá";
+
+/* Class = "UIButton"; normalTitle = "Share"; ObjectID = "Oq9-O6-eSQ"; */
+"Oq9-O6-eSQ.normalTitle" = "Chia sẻ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "RZS-Nd-ahg"; */
+"RZS-Nd-ahg.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "About"; ObjectID = "Wlj-HI-4h2"; */
+"Wlj-HI-4h2.normalTitle" = "Thông tin";
+
+/* Class = "UIButton"; normalTitle = "Favorite"; ObjectID = "XPt-ce-Wce"; */
+"XPt-ce-Wce.normalTitle" = "Yêu thích";
+
+/* Class = "UILabel"; text = "Translator"; ObjectID = "kH2-R3-Xrc"; */
+"kH2-R3-Xrc.text" = "Dịch Tiếng Anh - Dịch đa ngôn ngữ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "lCA-U7-SWC"; */
+"lCA-U7-SWC.normalTitle" = "Button";

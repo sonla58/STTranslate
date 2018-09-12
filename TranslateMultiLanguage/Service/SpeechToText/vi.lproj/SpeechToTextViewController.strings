@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "Đang lắng nghe ..."; ObjectID = "8RS-vi-2JM"; */
+"8RS-vi-2JM.text" = "Đang lắng nghe ...";
+
+/* Class = "UILabel"; text = "Kết quả"; ObjectID = "NMC-0m-bMg"; */
+"NMC-0m-bMg.text" = "Kết quả";
+
+/* Class = "UIButton"; normalTitle = "Cho phép"; ObjectID = "RVf-b3-IMd"; */
+"RVf-b3-IMd.normalTitle" = "Cho phép";
+
+/* Class = "UIButton"; normalTitle = "Đóng"; ObjectID = "uSH-gO-Sp5"; */
+"uSH-gO-Sp5.normalTitle" = "Đóng";
+
+/* Class = "UILabel"; text = "Cho phép ứng dụng sử dụng microphone để dịch từ giọng nói"; ObjectID = "wA1-c0-G1u"; */
+"wA1-c0-G1u.text" = "Cho phép ứng dụng sử dụng microphone để dịch từ giọng nói";

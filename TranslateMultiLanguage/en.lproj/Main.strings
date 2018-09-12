@@ -1,0 +1,36 @@
+
+/* Class = "UIButton"; normalTitle = "Yêu thích"; ObjectID = "3Sk-3W-Z2y"; */
+"3Sk-3W-Z2y.normalTitle" = "Yêu thích";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9EH-Pm-1VY"; */
+"9EH-Pm-1VY.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Xoá hết"; ObjectID = "CoZ-EW-L9q"; */
+"CoZ-EW-L9q.normalTitle" = "Xoá hết";
+
+/* Class = "UIButton"; normalTitle = "Dịch từ ảnh"; ObjectID = "FIg-aj-oza"; */
+"FIg-aj-oza.normalTitle" = "Dịch từ ảnh";
+
+/* Class = "UITextField"; placeholder = "Nhập từ cần dịch"; ObjectID = "KTw-Up-BUW"; */
+"KTw-Up-BUW.placeholder" = "Nhập từ cần dịch";
+
+/* Class = "UIButton"; normalTitle = "Đánh giá"; ObjectID = "LY9-KX-CnK"; */
+"LY9-KX-CnK.normalTitle" = "Đánh giá";
+
+/* Class = "UIButton"; normalTitle = "Chia sẻ"; ObjectID = "Oq9-O6-eSQ"; */
+"Oq9-O6-eSQ.normalTitle" = "Chia sẻ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "RZS-Nd-ahg"; */
+"RZS-Nd-ahg.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Nói"; ObjectID = "UtO-yZ-OXp"; */
+"UtO-yZ-OXp.normalTitle" = "Nói";
+
+/* Class = "UILabel"; text = "Dịch Tiếng Anh & Đa Ngôn Ngữ"; ObjectID = "kH2-R3-Xrc"; */
+"kH2-R3-Xrc.text" = "Dịch Tiếng Anh & Đa Ngôn Ngữ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "lCA-U7-SWC"; */
+"lCA-U7-SWC.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Giới thiệu"; ObjectID = "yG2-Di-EJV"; */
+"yG2-Di-EJV.normalTitle" = "Giới thiệu";

@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  TranslateMultiLanguage
+
+  Created by Anh Son Le on 7/12/18.
+  Copyright © 2018 stadio. All rights reserved.
+*/
+
+// HomeVC
+"Không có kết nối" = "No Internet connection";
+"Vui lòng kiểm tra kết nối Internet" = "Please check your connection and try again";
+"Đóng" = "Close";
+"Đã sao chép" = "Copied";
+"Đang dịch" = "Translating";
+"Xoá toàn bộ lịch sử dịch?" = "Delete all translate history?";
+"Xoá" = "Delete";
+"Thư viện ảnh" = "Photo Library";
+
+// Favorite
+"Yêu thích" = "Favorite";
+
+// ORC
+"Tải gói dữ liệu ngôn ngữ" = "Downloading language data";
+
+// STT
+"Xong" = "Done";
+"Bạn đã từ chối cho phép ứng dụng sử dụng microphone và dữ liệu giọng nói. Để sử dụng tính năng này vui lòng cấp phép cho ứng dụng" = "You have denied the app permission to use microphone and voice data. To use this feature, please authorize the app";
